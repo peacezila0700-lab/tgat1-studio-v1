@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "TGAT1 English Studio",
+  "short_name": "TGAT1 Studio",
+  "description": "แอปฝึกภาษาอังกฤษและจำลองสอบ TGAT1 พร้อมคลังศัพท์ 2,198 รายการและข้อสอบฝึก 20 ชุด",
+  "lang": "th",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#eef3fb",
+  "theme_color": "#17233d",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
